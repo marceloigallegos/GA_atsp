@@ -32,6 +32,10 @@ The documentation provided includes a set of test instances (**TestInstances** f
   - **A mutation rate (*p_Mutacion*) of 1%**.
   - A total of 800 generations (*generaciones*).
 
+![alt text](https://github.com/marceloigallegos/GA_atsp/blob/main/mdImages/Fig1.png)
+
 When applying Version 1 to the test instance, figure above shows the value of the Fitness function (i.e. the final distance of the obtained circuit), with respect to each of the generations. In the illustration it can be seen how the value of the function converges, which reflects the tendency of the algorithm to refine the value of the solution following an elitist criteria.
+
+![alt text](https://github.com/marceloigallegos/GA_atsp/blob/main/mdImages/Fig2.png)
 
 On the other hand, figure above shows the value of the Fitness function obtained for each generation when applying Version 2 of the algorithm. The illustration shows the significant incidence of the Probability of Mutation parameter in the quality of the solutions found. That is, the proposed algorithm is highly sensitive to this parameter, so it would be advisable to keep it at values of the same order of magnitude as that proposed in Version 1 if the priority of your work is to find good quality solutions. On the contrary, if you are interested in expanding the exploration and diversification potential of the method, this parameter should be where you focus your attention.
