@@ -1,7 +1,7 @@
 # An implementation of Genetic Algorithm to solve the Asymmetric Traveling Salesman Problem
 In this project, an implementation of Genetic Algorithm (GA) is presented and implemented in Python. In addition to the model, this repository contains a set of test instances for evaluation.
 
-![alt text](https://github.com/marceloigallegos/GA_atsp/blob/main/mdImages/FigIntro.png)
+![alt text](https://github.com/marceloigallegos/GA_atsp/blob/main/mdImages/FigInicial.png)
 
 ## Dependencies
 - Numpy
